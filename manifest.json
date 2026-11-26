@@ -1,0 +1,9 @@
+{
+  "name": "tavernlib-probe",
+  "display_name": "洛书匣探针",
+  "version": "0.1.0",
+  "author": "Roki",
+  "description": "只读检测：宿主平台、iOS策略、角色卡读取能力。不写入任何数据。",
+  "js": "index.js",
+  "css": "style.css"
+}
